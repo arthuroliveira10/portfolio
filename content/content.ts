@@ -176,9 +176,7 @@ export const content: Record<Lang, Content> = {
         ],
         repo: GH + "Prototipo-MedCase",
         shots: [
-          { src: "/img/medcase-1.webp", alt: "MedCase: caso clínico", caption: "Caso clínico" },
-          { src: "/img/medcase-5.webp", alt: "MedCase: dashboard", caption: "Dashboard" },
-          { src: "/img/medcase-6.webp", alt: "MedCase: login", caption: "Login com SSO" },
+          { src: "/img/medcase-1.webp", alt: "MedCase: caso clínico", caption: "Tela do caso clínico (1 de 6 telas)" },
         ],
       },
       {
@@ -360,9 +358,7 @@ export const content: Record<Lang, Content> = {
         ],
         repo: GH + "Prototipo-MedCase",
         shots: [
-          { src: "/img/medcase-1.webp", alt: "MedCase: clinical case", caption: "Clinical case" },
-          { src: "/img/medcase-5.webp", alt: "MedCase: dashboard", caption: "Dashboard" },
-          { src: "/img/medcase-6.webp", alt: "MedCase: login", caption: "SSO login" },
+          { src: "/img/medcase-1.webp", alt: "MedCase: clinical case", caption: "Clinical case screen (1 of 6)" },
         ],
       },
       {
