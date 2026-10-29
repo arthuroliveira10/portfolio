@@ -103,12 +103,12 @@ export default function Portfolio() {
                 {t.hero.ctaProjects} →
               </a>
               <a
-                href={links.cv}
+                href={links.github}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border border-accent/60 px-5 py-3 font-mono text-sm text-accent hover:bg-accent/10"
               >
-                {t.hero.ctaCv}
+                GitHub ↗
               </a>
             </div>
           </div>
